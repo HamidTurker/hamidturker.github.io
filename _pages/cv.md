@@ -24,12 +24,10 @@ Research Appointments
 * 2011:         Research Assistant - Royal Netherlands Academy of Arts and Sciences (Leiden University)
 
 
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
+Publications
+======
+
+
 Conference Posters & Presentations
 ======
 **Turker, H. B.**, Moyal, R., & Swallow, K. M. (2021, May). Drift Diffusion Modeling of Intentional and
