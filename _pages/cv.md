@@ -99,6 +99,22 @@ Neuroscience, San Diego, California.
 
 Teaching
 ======
+**Self-designed Courses**
+* Cornell University
+  * Fundamental Debates in Brain and Behavioral Sciences (seminar for first-year students focused on academic writing; Fall '20, Spring '21)
+  * Intro to Cognitive Science (6-week summer course)
+* Leiden University
+  * Consciousness - Conflicts in research on goal-directed and habitual action control
+  * Cognitive Psychology
+
+**Teaching Assistant**
+* Cornell University
+  * Statistics and Research Design
+  * Intro to Cognitive Science (Guest lecture on situated cognition)
+  * Perception
+  * Intro to the Psychology of Language (Guest lecture on generalization of syntax and lexical categories)
+  * Intro to Social Psychology
+  * Community Outreach
 
 Awards and Honors
 ======
