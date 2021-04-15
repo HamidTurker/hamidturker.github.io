@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Psychology, Leiden University, 2011 (Minor: Brain & Cognition)
-* M.Sc. in Cognitive Neuroscience, Leiden University, 2013
-* M.A. in Psychology, Cornell University, 2018
 * Ph.D in Psychology, Cornell University, 2021 (expected) (Minor: Cognitive Science)
+* M.A. in Psychology, Cornell University, 2018
+* M.Sc. in Cognitive Neuroscience, Leiden University, 2013
+* B.Sc. in Psychology, Leiden University, 2011 (Minor: Brain & Cognition)
 
 Research Appointments
 ======
