@@ -46,7 +46,7 @@ doi: 10.3758/s13421-018-0846-0
 
 _Book chapters:_
 
-Nolte, J., & **Turker, H. B.** (2020). Teaching students how to effectively take notes. In K. Armstrong, L.
+Nolte, J., & **Turker, H. B.** (2021). Teaching students how to effectively take notes. In K. Armstrong, L.
 Genova, J. W. Greenlee, & D. Samuel (Eds.), Teaching gradually: Practical pedagogy for graduate
 students, by graduate students. Sterling, VA: Stylus Publishing
 
