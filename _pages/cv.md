@@ -21,11 +21,14 @@ Research Appointments
 * 2014-2015:    Research Assistant/Junior Researcher
   * Leiden University
 
+
 * Spring 2013:  Research Trainee
   * Harvard University, Brigham & Women's Hospital
 
+
 * Fall 2012:    Visiting Student Research Collaborator
   * Princeton University
+
 
 * 2011:         Research Assistant - Royal Netherlands Academy of Arts and Sciences
   * Leiden University
@@ -54,11 +57,14 @@ Service and leadership
 * 2019-2021:    Neisser Lecture Committee
   * Cornell University
 
+
 * 2019:         T.A. Ryan Award Committee
   * Cornell University
 
+
 * 2019-present: Graduate Student Ambassador
   * Cornell University
+
 
 * 2017-present: Curatorial Assisant of the Wilder Brain Collection
   * Cornell University
