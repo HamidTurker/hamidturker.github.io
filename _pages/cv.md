@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Psychology, Leiden University, 2011 (Minor: Brain & Cognition)
+* M.Sc. in Cognitive Neuroscience, Leiden University, 2013
+* M.A. in Psychology, Cornell University, 2018
+* Ph.D in Psychology, Cornell University, 2021 (expected) (Minor: Cognitive Science)
 
-Work experience
+Research Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-2015:    Research Assistant/Junior Researcher
+  * Leiden University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spring 2013:  Research Trainee
+  * Harvard University, Brigham & Women's Hospital
+
+* Fall 2012:    Visiting Student Research Collaborator
+  * Princeton University
+
+* 2011:         Research Assistant - Royal Netherlands Academy of Arts and Sciences
+  * Leiden University
+
 
 Publications
 ======
@@ -42,7 +37,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conference Posters & Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +51,14 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2019-2021:    Neisser Lecture Committee
+  * Cornell University
+
+* 2019:         T.A. Ryan Award Committee
+  * Cornell University
+
+* 2019-present: Graduate Student Ambassador
+  * Cornell University
+
+* 2017-present: Curatorial Assisant of the Wilder Brain Collection
+  * Cornell University
