@@ -26,6 +26,30 @@ Research Appointments
 
 Publications
 ======
+**Turker, H. B.** & Swallow, K. M. (in prep). Diffusion Decision Modeling of Intentional and Incidental
+Temporal Selection of Behaviorally Relevant Moments.
+
+Riley, E., **Turker, H. B.**, Swallow, K., De Rosa, E., & Anderson, A. (under review). Task Evoked
+Pupillary Responses as a Potential Peripheral Marker of Central Cognitive Aging.
+
+Moyal, R., **Turker, H. B.**, Luh, W.-M., & Swallow, K. M. (under review). Widespread Amplification of
+Perceptual and Goal Information in Response to Behaviorally Relevant Events
+Preprint bioRxiv; doi: https://doi.org/10.1101/2020.09.19.304881
+
+**Turker, H. B.**, Riley, E., Luh, W.-M., Colcombe, S., & Swallow, K. M. (in press). Improving
+Estimates of Locus Coeruleus Function with Multi-Echo BOLD Data and Pupillometry.
+
+**Turker, H. B.** & Swallow, K. M. (2019). Attending to Behaviorally Relevant Moments Enhances
+Incidental Relational Memory. Memory & Cognition, 47(1), 1-16.
+doi: 10.3758/s13421-018-0846-0
+
+
+Book chapters:
+
+Nolte, J., & **Turker, H. B.** (2020). Teaching students how to effectively take notes. In K. Armstrong, L.
+Genova, J. W. Greenlee, & D. Samuel (Eds.), Teaching gradually: Practical pedagogy for graduate
+students, by graduate students. Sterling, VA: Stylus Publishing
+
 
 
 Conference Posters & Presentations
