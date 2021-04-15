@@ -21,7 +21,7 @@ Research Appointments
 * 2014-2015: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Assistant/Junior Researcher (Leiden University)
 * Spring 2013: &nbsp;&nbsp;&nbsp; Research Trainee (Harvard University, Brigham & Women's Hospital)
 * Fall 2012: &emsp;&emsp;&nbsp; Visiting Student Research Collaborator (Princeton University)
-* 2011-2012: &emsp;&emsp;&nbsp; Research Assistant - Royal Netherlands Academy of Arts and Sciences (Leiden University)
+* 2011-2012: &emsp;&emsp; Research Assistant - Royal Netherlands Academy of Arts and Sciences (Leiden University)
 
 
 Publications
