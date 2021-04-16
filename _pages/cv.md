@@ -39,8 +39,8 @@ Preprint bioRxiv; doi: https://doi.org/10.1101/2020.09.19.304881
 **Turker, H. B.**, Riley, E., Luh, W.-M., Colcombe, S., & Swallow, K. M. (in press). Improving
 Estimates of Locus Coeruleus Function with Multi-Echo BOLD Data and Pupillometry. _Neuroimage_
 
-**Turker, H. B.** & Swallow, K. M. (2019). Attending to Behaviorally Relevant Moments Enhances
-Incidental Relational Memory. _Memory & Cognition_, 47(1), 1-16.
+**Turker, H. B.** & Swallow, K. M. (2019). [Attending to Behaviorally Relevant Moments Enhances
+Incidental Relational Memory.](https://link.springer.com/article/10.3758%2Fs13421-018-0846-0) _Memory & Cognition_, 47(1), 1-16.
 doi: 10.3758/s13421-018-0846-0
 
 
