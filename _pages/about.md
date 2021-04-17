@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate at Cornell University, working the [AMP Lab](https://amp-lab.psych.cornell.edu) under the supervision of Prof. Khena Swallow.
+I'm a Ph.D. candidate at Cornell University, working in the [AMP Lab](https://amp-lab.psych.cornell.edu) under the supervision of Prof. Khena Swallow.
 
 
 My Research
