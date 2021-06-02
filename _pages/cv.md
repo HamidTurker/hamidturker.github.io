@@ -36,8 +36,7 @@ Moyal, R., **Turker, H. B.**, Luh, W.-M., & Swallow, K. M. (under review). Wides
 Perceptual and Goal Information in Response to Behaviorally Relevant Events
 Preprint bioRxiv; doi: https://doi.org/10.1101/2020.09.19.304881
 
-**Turker, H. B.**, Riley, E., Luh, W.-M., Colcombe, S., & Swallow, K. M. (in press). Improving
-Estimates of Locus Coeruleus Function with Multi-Echo BOLD Data and Pupillometry. _Neuroimage_
+**Turker, H. B.**, Riley, E., Luh, W.-M., Colcombe, S., & Swallow, K. M. (2021). [Estimates of locus coeruleus function with functional magnetic resonance imaging are influenced by localization approaches and the use of multi-echo data.](https://www.sciencedirect.com/science/article/pii/S1053811921003244) _Neuroimage_, _236_, 118047.
 
 **Turker, H. B.** & Swallow, K. M. (2019). [Attending to Behaviorally Relevant Moments Enhances
 Incidental Relational Memory.](https://link.springer.com/article/10.3758%2Fs13421-018-0846-0) _Memory & Cognition_, 47(1), 1-16.
