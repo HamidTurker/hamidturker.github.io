@@ -100,7 +100,7 @@ Teaching
 ======
 **Self-designed Courses**
 * Cornell University
-  * Fundamental Debates in Brain and Behavioral Sciences (seminar for first-year students focused on academic writing; Fall '20, Spring '21)
+  * Fundamental Debates in Behavioral & Brain Sciences (seminar for first-year students focused on academic writing; Fall '20, Spring '21)
   * Intro to Cognitive Science (6-week summer course)
 * Leiden University
   * Consciousness - Conflicts in research on goal-directed and habitual action control
@@ -117,6 +117,7 @@ Teaching
 
 Awards and Honors
 ======
+* 2021          Significant Paper Award (Cornell University) for Turker et al. (2021)
 * 2020:         Exceptional Departmental Service Award (Cornell University)
 * 2018:         Colman Leadership Program (Cornell University)
 * 2017:         Cognitive Science Program Travel Award (Cornell University)
