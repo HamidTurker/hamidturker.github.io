@@ -53,8 +53,6 @@ Nolte, J., & **Turker, H. B.** (2021). Teaching students how to effectively take
 Genova, J. W. Greenlee, & D. Samuel (Eds.), [Teaching gradually: Practical pedagogy for graduate
 students, by graduate students.](https://styluspub.presswarehouse.com/browse/book/9781642671612/Teaching-Gradually) Sterling, VA: Stylus Publishing
 
-![IMG_6797](https://github.com/user-attachments/assets/e4046167-4faa-43be-aabd-e663093483ee)
-
 
 Conference Posters & Presentations
 ======
