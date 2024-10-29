@@ -57,6 +57,19 @@ students, by graduate students.](https://styluspub.presswarehouse.com/browse/boo
 
 Conference Posters & Presentations
 ======
+**Turker, H. B.**, Bulkin, D., & Smith, D. M. (2023). Medial Prefrontal Cortical Neurons Differentiate Match and Non-Match Cues
+in a Continuous Olfactory Match-to-Sample Task. Poster at Society for Neuroscience, Washington D.C.
+
+Wu, W., **Turker, H. B.**, Fang, J., Cleland, T. A., Linster, C., & Smith, D. M. (2023). Neuronal Responses in the Anterior Olfactory
+Nucleus During a Complex Odor Memory Task. Poster at Society for Neuroscience, Washington D.C.
+
+**Turker, H. B.**, Colcombe, S., & Swallow, K. M. (2022, April). Shared and Unshared Contributions of LC and VTA to Static
+Functional Connectivity. Poster at Cognitive Neuroscience Society, San Francisco, California.
+
+Nolte, J., & **Turker, H. B.** (2021, November). Involving older adults in the data analysis process. Talk at the annual meeting of the Gerontological Society of America (virtual).
+
+Riley, E., Cicero, N., **Turker, H. B.**, Swallow, K. M., De Rosa, E., & Anderson, A. (2021, June). Multimodal Evidence for the Use of Pupillary Responses for Evaluating Cognitive Aging in Locus Coeruleus. Poster at Organization for Human Brain Mapping (virtual).
+
 **Turker, H. B.**, Moyal, R., & Swallow, K. M. (2021, May). Drift Diffusion Modeling of Intentional and
 Incidental Temporal Selection of Behaviorally RelevantMoments. Poster at Vision Sciences Society, St.
 Pete Beach, Florida (virtual).
