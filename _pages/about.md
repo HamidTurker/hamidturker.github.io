@@ -23,13 +23,16 @@ A longstanding idea in brain and behavioral sciences is that attention and memor
 All this highlights my personal belief that the most creative and innovative research takes place at the intersection of topics and methods that have historically remained separated. By placing the focus on overarching theories of ecological and adaptive behavior, first and foremost, I try to generate interesting research questions about neural mechanisms and then employ the best tools to answer those questions, rather than having our available tools guide the questions we ask.
 
 
+<img width="1620" alt="Screen Shot 2024-10-29 at 12 59 26 AM" src="https://github.com/user-attachments/assets/240ec114-5a20-4bc5-aeb6-37cfa486a387">
+
+
 Under Construction & In Transition
 ============
 Please note that this personal website is currently under construction and in the process of transitioning to hamidturker.com.
 
 
 
-<img width="1620" alt="Screen Shot 2024-10-29 at 12 59 26 AM" src="https://github.com/user-attachments/assets/240ec114-5a20-4bc5-aeb6-37cfa486a387">
+
 
 
 
