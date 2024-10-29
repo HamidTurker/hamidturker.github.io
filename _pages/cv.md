@@ -47,7 +47,7 @@ doi: 10.3758/s13421-018-0846-0
 
 _Book chapters:_
 
-Nolte, J., & **Turker, H. B.** (2023). Involving older adults in the data analysis process. In A. Urbania & A. Wanka (Eds.), [Routledge international handbook of participatory approaches in ageaing research].(https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003254829/routledge-international-handbook-participatory-approaches-ageing-research-anna-urbaniak-anna-wanka?refId=5f3813cc-0597-41de-8a0a-3eff07e1bf6a&context=ubx). Routledge, London
+Nolte, J., & **Turker, H. B.** (2023). Involving older adults in the data analysis process. In A. Urbania & A. Wanka (Eds.), [Routledge international handbook of participatory approaches in ageaing research](https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003254829/routledge-international-handbook-participatory-approaches-ageing-research-anna-urbaniak-anna-wanka?refId=5f3813cc-0597-41de-8a0a-3eff07e1bf6a&context=ubx). Routledge, London
 
 Nolte, J., & **Turker, H. B.** (2021). Teaching students how to effectively take notes. In K. Armstrong, L.
 Genova, J. W. Greenlee, & D. Samuel (Eds.), [Teaching gradually: Practical pedagogy for graduate
