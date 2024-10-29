@@ -32,6 +32,8 @@ Under Construction & In Transition
 ============
 Please note that this personal website is currently under construction and in the process of transitioning to hamidturker.com.
 
+![IMG_6797](https://github.com/user-attachments/assets/ce58076e-8654-40e9-9bdf-30cfc545f383)
+SfN '23 in Washington DC
 
 
 
