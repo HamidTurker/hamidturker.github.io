@@ -26,3 +26,10 @@ All this highlights my personal belief that the most creative and innovative res
 Under Construction & In Transition
 ============
 Please note that this personal website is currently under construction and in the process of transitioning to hamidturker.com.
+
+
+
+<img width="1620" alt="Screen Shot 2024-10-29 at 12 59 26 AM" src="https://github.com/user-attachments/assets/240ec114-5a20-4bc5-aeb6-37cfa486a387">
+
+
+
