@@ -100,6 +100,27 @@ Swallow, K. M., **Turker, H. B.**, Moyal, R., Li, G. (2016, November). Attending
 enhances visual perceptual processing in ventral visual cortex. Poster presented at Society for
 Neuroscience, San Diego, California.
 
+Awards and Honors
+======
+* 2021:         Significant Paper Award (Cornell University) for Turker et al. (2021)
+* 2020:         Exceptional Departmental Service Award (Cornell University)
+* 2018:         Colman Leadership Program (Cornell University)
+* 2017:         Cognitive Science Program Travel Award (Cornell University)
+* 2015, 2019:   SAGE Fellowship (Cornell University)
+* 2014:         Socrates - Dutch & Flemish Honor Society
+* 2013:         Outbound Study Grant (Leiden University)
+* 2012:         LUSTRA Fund (Leiden University)
+* 2012:         LUF International Study Fund (Leiden University)
+
+
+Service and leadership
+======
+* 2019-2022:    Graduate Student Ambassador (Cornell University)
+* 2019-2021:    Neisser Lecture Committee (Cornell University)
+* 2019:         T.A. Ryan Award Committee (Cornell University)
+* 2017-present: Curatorial Assisant of the Wilder Brain Collection (Cornell University)
+
+
 Teaching
 ======
 **Self-designed Courses**
@@ -119,22 +140,3 @@ Teaching
   * Intro to Social Psychology
   * Community Outreach
 
-Awards and Honors
-======
-* 2021:         Significant Paper Award (Cornell University) for Turker et al. (2021)
-* 2020:         Exceptional Departmental Service Award (Cornell University)
-* 2018:         Colman Leadership Program (Cornell University)
-* 2017:         Cognitive Science Program Travel Award (Cornell University)
-* 2015, 2019:   SAGE Fellowship (Cornell University)
-* 2014:         Socrates - Dutch & Flemish Honor Society
-* 2013:         Outbound Study Grant (Leiden University)
-* 2012:         LUSTRA Fund (Leiden University)
-* 2012:         LUF International Study Fund (Leiden University)
-
-
-Service and leadership
-======
-* 2019-2021:    Neisser Lecture Committee (Cornell University)
-* 2019:         T.A. Ryan Award Committee (Cornell University)
-* 2019-present: Graduate Student Ambassador (Cornell University)
-* 2017-present: Curatorial Assisant of the Wilder Brain Collection (Cornell University)
