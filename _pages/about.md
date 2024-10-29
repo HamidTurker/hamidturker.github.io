@@ -27,15 +27,15 @@ All this highlights my personal belief that the most creative and innovative res
 <img width="1626" alt="Screen Shot 2024-10-29 at 1 28 55 AM" src="https://github.com/user-attachments/assets/108d2a99-99af-48b9-9952-3f06a71b883a">
 
 
-
-Under Construction & In Transition
-============
-Please note that this personal website is currently under construction and in the process of transitioning to hamidturker.com.
-
 ![IMG_6797](https://github.com/user-attachments/assets/ce58076e-8654-40e9-9bdf-30cfc545f383)
 SfN '23 in Washington DC
 
 
+
+
+Under Construction & In Transition
+============
+Please note that this personal website is currently under construction and in the process of transitioning to hamidturker.com.
 
 
 
