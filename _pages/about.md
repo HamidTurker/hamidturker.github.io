@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoc at Cornell University, working in the [Laboratory of Neurobiology of Learning and Memory](https://blogs.cornell.edu/davidsmithlab/) with Prof. David Smith. Prior to this, I completed my PhD work in the [AMP Lab](https://amp-lab.psych.cornell.edu) under the supervision of Prof. Khena Swallow, was a research trainee at Harvard, visiting student research collaborator at Princeton, and completed my B.Sc. and M.Sc. at Leiden University in the Netherlands. Since 2017, I have also been the assistant curator of Cornell's famous Wilder Brain Collection.
+I'm a postdoc at Cornell University, working in the [Laboratory of Neurobiology of Learning and Memory](https://blogs.cornell.edu/davidsmithlab/) with Prof. David Smith.
+
+Prior to this, I completed my PhD work in the [AMP Lab](https://amp-lab.psych.cornell.edu) under the supervision of Prof. Khena Swallow. Before that, I was a research trainee at the Harvard Medical School (working on how auditory cues guide visual search), a visiting student research collaborator at Princeton (studying people's willingness to exert effort and its relationship to how they balance model-based versus model-free reinforcement learning), and I completed my B.Sc. and M.Sc. at Leiden University in the Netherlands. Since 2017, I have also been the assistant curator of Cornell's famous Wilder Brain Collection, a volunteer position through which I regularly organize science outreach events for kids and adolescents in upstate New York.
 
 
 <img width="1148" alt="Screen Shot 2024-10-29 at 12 44 19 AM" src="https://github.com/user-attachments/assets/6767a4b3-2d86-4235-9272-ccffce744736">
