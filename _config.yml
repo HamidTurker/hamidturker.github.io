@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hamid B. Türker"
+title                    : "Hamid Türker"
 title_separator          : "-"
-name                     : &name "Hamid B. Türker"
+name                     : &name "Hamid Türker"
 description              : &description "personal description"
 url                      : https://hamidturker.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
