@@ -11,6 +11,10 @@ redirect_from:
 I'm a postdoc at Cornell University, working in the [Laboratory of Neurobiology of Learning and Memory](https://blogs.cornell.edu/davidsmithlab/) with Prof. David Smith. Prior to this, I completed my PhD work in the [AMP Lab](https://amp-lab.psych.cornell.edu) under the supervision of Prof. Khena Swallow, was a research trainee at Harvard, visiting student research collaborator at Princeton, and completed my B.Sc. and M.Sc. at Leiden University in the Netherlands. Since 2017, I have also been the assistant curator of Cornell's famous Wilder Brain Collection.
 
 
+<img width="1148" alt="Screen Shot 2024-10-29 at 12 44 19 AM" src="https://github.com/user-attachments/assets/6767a4b3-2d86-4235-9272-ccffce744736">
+
+
+
 My Research
 ============
 A longstanding idea in brain and behavioral sciences is that attention and memory are limited and fallible. Yet, despite their limitations, we are able to adapt our moment-to-moment behavior effectively. My research aims to provide a comprehensive description of the psychological, computational, and neurobiological mechanisms underpinning how perception, memory, and decision-making systems handle dynamic, eventful, multisensory environments to produce adaptive behavior.
