@@ -14,10 +14,7 @@ Prior to this, I completed my PhD work in the [AMP Lab](https://amp-lab.psych.co
 
 Click [here](https://github.com/user-attachments/files/17564074/CV_2024Oct.pdf) to download my full CV or go [here](https://hamidturker.github.io/cv/) for the abridged online version.
 
-
-<img width="1148" alt="Screen Shot 2024-10-29 at 12 44 19 AM" src="https://github.com/user-attachments/assets/6767a4b3-2d86-4235-9272-ccffce744736">
-
-
+![Presentation1](https://github.com/user-attachments/assets/6be77b35-d16b-4806-9044-f50b25ee4113)
 
 My Research
 ============
