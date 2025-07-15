@@ -15,6 +15,8 @@ Prior to this, I completed my PhD work in the [AMP Lab](https://amp-lab.psych.co
 Click [here](https://github.com/user-attachments/files/17564074/CV_2024Oct.pdf) to download my full CV or go [here](https://hamidturker.github.io/cv/) for the abridged online version.
 
 ![Presentation1](https://github.com/user-attachments/assets/6be77b35-d16b-4806-9044-f50b25ee4113)
+The Wilder Brain Collection has been showcased at many outreach events, including Upward Bound, Expanding Your Horizons, Brain Days, Kids Science Day, GRASSHOPR, and the Community Neuroscience Initiative!
+
 
 My Research
 ============
