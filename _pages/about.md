@@ -12,7 +12,7 @@ I am a postdoc at Cornell University in the [Laboratory of Neurobiology of Learn
 
 Prior to this, I completed my PhD work in the [AMP Lab](https://amp-lab.psych.cornell.edu) under the supervision of Prof. Khena Swallow at Cornell. I have also worked as a research trainee at the Harvard Medical School (studying how auditory cues impact visual search), as a visiting student research collaborator at Princeton (studying the relationship between cognitive effort and model-based versus model-free reinforcement learning), and as a research assistant at Leiden University supported through the Royal Netherlands Academy of Arts & Sciences (studying the developmental trajectory of decision-making mechanisms in the brain in childhood and adolescence). Since 2017, I have also been the assistant curator of Cornell's famous [Wilder Brain Collection](https://en.wikipedia.org/wiki/Wilder_Brain_Collection), a volunteer position through which I regularly organize science outreach events for kids and adolescents in upstate New York.
 
-Click [here](https://github.com/user-attachments/files/CV_2025July15.pdf) to download my full CV or go [here](https://hamidturker.github.io/cv/) for the abridged online version.
+Click [here]([CV_2025July15.pdf](https://github.com/user-attachments/files/21244619/CV_2025July15.pdf) to download my full CV or go [here](https://hamidturker.github.io/cv/) for the abridged online version.
 
 ![Presentation1](https://github.com/user-attachments/assets/6be77b35-d16b-4806-9044-f50b25ee4113)
 The Wilder Brain Collection has been showcased at many outreach events, including Upward Bound, Expanding Your Horizons, Brain Days, Kids Science Day, GRASSHOPR, and the Community Neuroscience Initiative!
