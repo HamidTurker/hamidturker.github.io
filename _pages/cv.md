@@ -38,7 +38,7 @@ Publications
 
 **Turker, H. B.**, & Smith, D. M. (in prep). Changes in Prefrontal and Hippocampal Power, Phase-Clustering, and Granger Prediction Unfold in a Sequence Time-Locked to Behaviorally-Relevant Events
 
-Wu, W. **Turker, H. B.**, Fang, J., Cleland, T. A., Linster, C., & Smith, D. M. (under review). Neuronal Responses in the Anterior Olfactory Nucleus During a Complex Odor Memory Task
+Wu, W. **Turker, H. B.**, Fang, J., Cleland, T. A., Linster, C., & Smith, D. M. (in prep). Neuronal Responses in the Anterior Olfactory Nucleus During a Complex Odor Memory Task
 
 **Turker, H. B.**, & Colcombe, S., & Swallow, K. M. (in revision). Shared and Unshared Contributions of LC and VTA to Static Functional Connectivity
 
