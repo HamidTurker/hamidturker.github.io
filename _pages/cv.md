@@ -32,7 +32,7 @@ Research Appointments
 
 Publications
 ======
-**_Peer-Reviewed Articles:_**
+**_In Prep:_**
 
 **Turker, H. B.**, & Smith, D. M. (under review). Prelimbic Medial Prefrontal Cortex Differentiates Match from Non-Match and Signals Various Behavioral Events
 
@@ -41,6 +41,8 @@ Publications
 Wu, W. **Turker, H. B.**, Fang, J., Cleland, T. A., Linster, C., & Smith, D. M. (in prep). Neuronal Responses in the Anterior Olfactory Nucleus During a Complex Odor Memory Task
 
 **Turker, H. B.**, & Colcombe, S., & Swallow, K. M. (in revision). Shared and Unshared Contributions of LC and VTA to Static Functional Connectivity
+
+**_Peer-Reviewed Articles:_**
 
 Riley, E., **Turker, H. B.**, Swallow, K., De Rosa, E., & Anderson, A. (2024). [Nonlinear changes in pupillary attentional orienting responses across the lifespan.](https://link.springer.com/article/10.1007/s11357-023-00834-1) _GeroScience_, _46_, 1017-1033
 
