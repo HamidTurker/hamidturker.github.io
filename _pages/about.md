@@ -24,14 +24,9 @@ My Research
 ============
 A central question in behavioral and brain sciences is how we perform skilled, adaptive behavior despite fundamental limitations in perception, attention, and memory. My research investigates the psychological, computational, and neurobiological mechanisms that allow the brain to manage its own constraints. **I focus on (i) how multisensory information is integrated into coherent representations, (ii) what information is selected to be represented on the 'cognitive map', and (iii) how memories are retrieved to guide context-dependent behavior.** 
 
-In my goal to address the paradox of how fallible cognitive systems enable expert performance, I cross traditional research boundaries: I work with both human and rodent subjects, collecting data from naturalistic behavior as well as highly-controlled experiments. I utilize neuroimaging (fMRI, electrophysiology, EEG/LFP), non-invasive physiology (eyetracking, pupillometry), and invasive manipulation (optogenetics). I use computational models such as drift-diffusion, linear ballistic accumulators, and reinforcement learning frameworks to uncover underlying mechanisms.
+In my goal to address the paradox of how fallible cognitive systems enable expert performance, I cross traditional research boundaries: I work with both human and rodent subjects, collecting data from naturalistic behavior as well as highly-controlled experiments. I utilize non-invasive (fMRI, scalp EEG, eyetracking, pupillometry) and invasive (electrophysiology, LFP, optogenetics) techniques, complemented with computational modeling (reinforcement learning, deep learning, drift-diffusion models).
 
-I emphasize a balance between controlled experimental design and ecological validity—leveraging both head-fixed and freely moving paradigms—to study cognition across levels of analysis, from neurons to behavior.
-
-I believe the most creative science emerges at the intersection of traditionally separate approaches. By centering research around theoretical questions of adaptive behavior, I aim to choose the best tools for the problem—not the other way around.
-
-      
-All this highlights my personal belief that the most creative and innovative research takes place at the intersection of topics and methods that have historically remained separated. By placing the focus on overarching theories of ecological and adaptive behavior, first and foremost, I try to generate interesting research questions about neural mechanisms and then employ the best tools to answer those questions, rather than having our available tools guide the questions we ask.
+I believe the most creative science emerges at the intersection of approaches that have historically remained separated. By centering my work on theoretical questions across levels of analysis - from neurons to ecological behavior - I aim to choose the best tools for the problem, not the other way around.
 
 
 <img width="1626" alt="Screen Shot 2024-10-29 at 1 28 55 AM" src="https://github.com/user-attachments/assets/108d2a99-99af-48b9-9952-3f06a71b883a">
