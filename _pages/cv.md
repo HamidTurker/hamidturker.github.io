@@ -42,30 +42,30 @@ Wu, W. **Turker, H. B.**, Fang, J., Cleland, T. A., Linster, C., & Smith, D. M. 
 
 **Turker, H. B.**, & Colcombe, S., & Swallow, K. M. (in revision). Shared and Unshared Contributions of LC and VTA to Static Functional Connectivity
 
-Riley, E., **Turker, H. B.**, Swallow, K., De Rosa, E., & Anderson, A. (2024). [Nonlinear changes in pupillary attentional orienting responses across the lifespan.](https://link.springer.com/article/10.1007/s11357-023-00834-1) _GeroScience_, _46_, 1017-1033
+7. Riley, E., **Turker, H. B.**, Swallow, K., De Rosa, E., & Anderson, A. (2024). [Nonlinear changes in pupillary attentional orienting responses across the lifespan.](https://link.springer.com/article/10.1007/s11357-023-00834-1) _GeroScience_, _46_, 1017-1033
 
-Richie-Halford, A. Cieslak, M., Ai, L., Caffarra, S., Covitz, S., Franco, A.R., Karipidis, I., Kruper, J., Milham, M., Avelar-Pereira, B., Roy, E., Sydnor, V.J.,
+6. Richie-Halford, A. Cieslak, M., Ai, L., Caffarra, S., Covitz, S., Franco, A.R., Karipidis, I., Kruper, J., Milham, M., Avelar-Pereira, B., Roy, E., Sydnor, V.J.,
 Yeatman, J.D., **The Fibr Community Science Consortium**, Satterthwaite, T.D., & Rokem, A. (2022). [An analysis-ready and quality controlled resource for pediatric brain white-matter research](https://www.nature.com/articles/s41597-022-01695-7), _Scientific Data_, _9_, 616
 
-Swallow, K. M., Broitman, A. W., Riley, E., & **Turker, H. B.** (2022). [Grounding the attentional boost effect in events and the efficient brain.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.892416/full), _Frontiers in Psychology_, _3842_
+5. Swallow, K. M., Broitman, A. W., Riley, E., & **Turker, H. B.** (2022). [Grounding the attentional boost effect in events and the efficient brain.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.892416/full), _Frontiers in Psychology_, _3842_
 
-**Turker, H. B.** & Swallow, K. M. (2022). [Diffusion Decision Modeling of Intentional and Incidental
+4. **Turker, H. B.** & Swallow, K. M. (2022). [Diffusion Decision Modeling of Intentional and Incidental
 Temporal Selection of Behaviorally Relevant Moments.](https://link.springer.com/article/10.1007/s42113-022-00148-z), _Computational Brain & Behavior_, _5_, 302-325
 
-Moyal, R., **Turker, H. B.**, Luh, W.-M., & Swallow, K. M. (2022). [Auditory target detection enhances visual processing and hippocampal functional connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.891682/full), _Frontiers in Psychology, _13_, 891682
+3. Moyal, R., **Turker, H. B.**, Luh, W.-M., & Swallow, K. M. (2022). [Auditory target detection enhances visual processing and hippocampal functional connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.891682/full), _Frontiers in Psychology, _13_, 891682
 
-**Turker, H. B.**, Riley, E., Luh, W.-M., Colcombe, S., & Swallow, K. M. (2021). [Estimates of locus coeruleus function with functional magnetic resonance imaging are influenced by localization approaches and the use of multi-echo data.](https://www.sciencedirect.com/science/article/pii/S1053811921003244) _Neuroimage_, _236_, 118047.
+2. **Turker, H. B.**, Riley, E., Luh, W.-M., Colcombe, S., & Swallow, K. M. (2021). [Estimates of locus coeruleus function with functional magnetic resonance imaging are influenced by localization approaches and the use of multi-echo data.](https://www.sciencedirect.com/science/article/pii/S1053811921003244) _Neuroimage_, _236_, 118047.
 
-**Turker, H. B.** & Swallow, K. M. (2019). [Attending to Behaviorally Relevant Moments Enhances
+1. **Turker, H. B.** & Swallow, K. M. (2019). [Attending to Behaviorally Relevant Moments Enhances
 Incidental Relational Memory.](https://link.springer.com/article/10.3758%2Fs13421-018-0846-0) _Memory & Cognition_, 47(1), 1-16.
 doi: 10.3758/s13421-018-0846-0
 
 
 **_Book chapters:_**
 
-Nolte, J., & **Turker, H. B.** (2023). Involving older adults in the data analysis process. In A. Urbania & A. Wanka (Eds.), [Routledge international handbook of participatory approaches in ageaing research](https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003254829/routledge-international-handbook-participatory-approaches-ageing-research-anna-urbaniak-anna-wanka?refId=5f3813cc-0597-41de-8a0a-3eff07e1bf6a&context=ubx). Routledge, London
+2. Nolte, J., & **Turker, H. B.** (2023). Involving older adults in the data analysis process. In A. Urbania & A. Wanka (Eds.), [Routledge international handbook of participatory approaches in ageaing research](https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003254829/routledge-international-handbook-participatory-approaches-ageing-research-anna-urbaniak-anna-wanka?refId=5f3813cc-0597-41de-8a0a-3eff07e1bf6a&context=ubx). Routledge, London
 
-Nolte, J., & **Turker, H. B.** (2021). Teaching students how to effectively take notes. In K. Armstrong, L.
+1. Nolte, J., & **Turker, H. B.** (2021). Teaching students how to effectively take notes. In K. Armstrong, L.
 Genova, J. W. Greenlee, & D. Samuel (Eds.), [Teaching gradually: Practical pedagogy for graduate
 students, by graduate students.](https://styluspub.presswarehouse.com/browse/book/9781642671612/Teaching-Gradually) Sterling, VA: Stylus Publishing
 
