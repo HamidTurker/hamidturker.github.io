@@ -18,6 +18,8 @@ Click [here](https://github.com/user-attachments/files/21244630/CV_HamidTurker_2
 The Wilder Brain Collection has been showcased at many outreach events, including Upward Bound, Expanding Your Horizons, Brain Days, Kids Science Day, GRASSHOPR, and the Community Neuroscience Initiative!
 
 
+
+
 My Research
 ============
 A longstanding idea in behavioral and brain sciences is that our perception, attention, and memory are limited and fallible. And yet, despite our limitations, we can effectively get through the day. How does the brain manage its limited resources to somehow still produce highly adaptive and skilled behavior? **My research aims to provide a comprehensive description of the psychological, computational, and neurobiological mechanisms underpinning (i) how incoming multisensory information is processed, integrated, and transformed into coherent representations of the environment, (ii) how it is decided which information gets represented on the so-called "cognitive map", and (iii) how context-appropriate memories are retrieved to flexibly guide context-dependent behavior.**
