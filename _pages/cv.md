@@ -115,6 +115,10 @@ Swallow, K. M., **Turker, H. B.**, Moyal, R., Li, G. (2016, November). Attending
 enhances visual perceptual processing in ventral visual cortex. Poster presented at Society for
 Neuroscience, San Diego, California.
 
+![IMG_6797](https://github.com/user-attachments/assets/ce58076e-8654-40e9-9bdf-30cfc545f383)
+With the Smith Lab at SfN '23 in Washington DC
+
+
 Awards and Honors
 ======
 * 2021:         Significant Paper Award (Cornell University) for Turker et al. (2021)
