@@ -17,17 +17,17 @@ In Brief
 
 Education
 ======
-* Ph.D in Psychology, Cornell University, 2022 (Minor: Cognitive Science)
-* M.A. in Psychology, Cornell University, 2018
-* M.Sc. in Cognitive Neuroscience, Leiden University, 2013
-* B.Sc. in Psychology, Leiden University, 2011 (Minor: Brain & Cognition)
+* 2022:      &nbsp;&nbsp;&nbsp; Ph.D in Psychology, Cornell University (Minor: Cognitive Science)
+* 2018:      &nbsp;&nbsp;&nbsp; M.A. in Psychology, Cornell University
+* 2013:      &nbsp;&nbsp;&nbsp; M.Sc. in Cognitive Neuroscience, Leiden University
+* 2011:      &nbsp;&nbsp;&nbsp; B.Sc. in Psychology, Leiden University, 2011 (Minor: Brain & Cognition)
 
 Research Appointments
 ======
-* 2014-2015: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Assistant/Junior Researcher (Leiden University)
-* 2013: &nbsp;&nbsp;&nbsp; Research Trainee (Harvard University, Brigham & Women's Hospital)
-* 2012: &emsp;&emsp;&nbsp; Visiting Student Research Collaborator (Princeton University)
-* 2011: &emsp;&emsp;&emsp;&emsp; Research Assistant - Royal Netherlands Academy of Arts and Sciences (Leiden University)
+* 2014-2015: &nbsp;&nbsp;&nbsp; Research Assistant/Junior Researcher (Leiden University)
+* 2013:      &nbsp;&nbsp;&nbsp; Research Trainee (Harvard University, Brigham & Women's Hospital)
+* 2012:      &emsp;&emsp;&nbsp; Visiting Student Research Collaborator (Princeton University)
+* 2011:      &emsp;&emsp;&emsp; Research Assistant - Royal Netherlands Academy of Arts and Sciences (Leiden University)
 
 
 Publications
