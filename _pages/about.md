@@ -10,16 +10,6 @@ redirect_from:
 
 I am a postdoc at Cornell University in the [Laboratory of Neurobiology of Learning and Memory](https://blogs.cornell.edu/davidsmithlab/) led by Prof. David Smith, but moving to University College London for a research fellow position this Fall!
 
-Prior to this, I completed my PhD work in the [AMP Lab](https://amp-lab.psych.cornell.edu) under the supervision of Prof. Khena Swallow at Cornell. I have also worked as a research trainee at the Harvard Medical School (studying how auditory cues impact visual search), as a visiting student research collaborator at Princeton (studying the relationship between cognitive effort and model-based versus model-free reinforcement learning), and as a research assistant at Leiden University supported through the Royal Netherlands Academy of Arts & Sciences (studying the developmental trajectory of decision-making mechanisms in the brain in childhood and adolescence). Since 2017, I have also been the assistant curator of Cornell's famous [Wilder Brain Collection](https://en.wikipedia.org/wiki/Wilder_Brain_Collection), a volunteer position through which I regularly organize science outreach events for kids and adolescents in upstate New York.
-
-Click [here](https://github.com/user-attachments/files/21244630/CV_HamidTurker_2025July15.pdf) to download my full CV or go [here](https://hamidturker.github.io/cv/) for the abridged online version.
-
-![Presentation1](https://github.com/user-attachments/assets/6be77b35-d16b-4806-9044-f50b25ee4113)
-The Wilder Brain Collection has been showcased at many outreach events, including Upward Bound, Expanding Your Horizons, Brain Days, Kids Science Day, GRASSHOPR, and the Community Neuroscience Initiative!
-
-
-
-
 My Research
 ============
 A central question in behavioral and brain sciences is how we perform skilled, adaptive behavior despite fundamental limitations in perception, attention, and memory. My research investigates the psychological, computational, and neurobiological mechanisms that allow the brain to manage its own constraints. **I focus on (i) how multisensory information is integrated into coherent representations, (ii) what information is selected to be represented on the 'cognitive map', and (iii) how memories are retrieved to guide context-dependent behavior.** 
