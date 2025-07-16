@@ -12,7 +12,7 @@ redirect_from:
 
 In Brief
 ======
-I currently work as a postdoctoral associate in the lab of David Smith. Prior to this, I completed my PhD work in the [AMP Lab](https://amp-lab.psych.cornell.edu) under the supervision of Prof. Khena Swallow at Cornell. I have also worked as a research trainee at the Harvard Medical School (studying how auditory cues impact visual search), as a visiting student research collaborator at Princeton (studying the relationship between cognitive effort and model-based versus model-free reinforcement learning), and as a research assistant at Leiden University supported through the Royal Netherlands Academy of Arts & Sciences (studying the developmental trajectory of decision-making mechanisms in the brain in childhood and adolescence). Since 2017, I have also been the assistant curator of Cornell's famous [Wilder Brain Collection](https://en.wikipedia.org/wiki/Wilder_Brain_Collection), a volunteer position through which I regularly organize science outreach events for kids and adolescents in upstate New York.
+**I currently work as a postdoctoral associate in the lab of David Smith.** Prior to this, I completed my PhD work in the [AMP Lab](https://amp-lab.psych.cornell.edu) under the supervision of Prof. Khena Swallow at Cornell. I have also worked as a research trainee at the Harvard Medical School (studying how auditory cues impact visual search), as a visiting student research collaborator at Princeton (studying the relationship between cognitive effort and model-based versus model-free reinforcement learning), and as a research assistant at Leiden University supported through the Royal Netherlands Academy of Arts & Sciences (studying the developmental trajectory of decision-making mechanisms in the brain in childhood and adolescence). Since 2017, I have also been the assistant curator of Cornell's famous [Wilder Brain Collection](https://en.wikipedia.org/wiki/Wilder_Brain_Collection), a volunteer position through which I regularly organize science outreach events for kids and adolescents in upstate New York.
 
 
 Education
@@ -25,8 +25,8 @@ Education
 Research Appointments
 ======
 * 2014-2015: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Assistant/Junior Researcher (Leiden University)
-* Spring 2013: &nbsp;&nbsp;&nbsp; Research Trainee (Harvard University, Brigham & Women's Hospital)
-* Fall 2012: &emsp;&emsp;&nbsp; Visiting Student Research Collaborator (Princeton University)
+* 2013: &nbsp;&nbsp;&nbsp; Research Trainee (Harvard University, Brigham & Women's Hospital)
+* 2012: &emsp;&emsp;&nbsp; Visiting Student Research Collaborator (Princeton University)
 * 2011: &emsp;&emsp;&emsp;&emsp; Research Assistant - Royal Netherlands Academy of Arts and Sciences (Leiden University)
 
 
