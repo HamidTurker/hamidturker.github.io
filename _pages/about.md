@@ -22,8 +22,14 @@ I believe the most creative science emerges at the intersection of approaches th
 <img width="1626" alt="Screen Shot 2024-10-29 at 1 28 55 AM" src="https://github.com/user-attachments/assets/108d2a99-99af-48b9-9952-3f06a71b883a">
 
 
-![IMG_6797](https://github.com/user-attachments/assets/ce58076e-8654-40e9-9bdf-30cfc545f383)
-With the Smith Lab at SfN '23 in Washington DC
+
+
+Click [here](https://github.com/user-attachments/files/21244630/CV_HamidTurker_2025July15.pdf) to download my full CV or go [here](https://hamidturker.github.io/cv/) for the abridged online version.
+
+![Presentation1](https://github.com/user-attachments/assets/6be77b35-d16b-4806-9044-f50b25ee4113)
+The Wilder Brain Collection has been showcased at many outreach events, including Upward Bound, Expanding Your Horizons, Brain Days, Kids Science Day, GRASSHOPR, and the Community Neuroscience Initiative!
+
+
 
 
 
