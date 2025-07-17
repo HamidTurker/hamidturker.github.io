@@ -25,7 +25,8 @@ I believe the most creative science emerges at the intersection of approaches th
 
 
 
-
+Science Outreach
+============
 ![Presentation1](https://github.com/user-attachments/assets/6be77b35-d16b-4806-9044-f50b25ee4113)
 The Wilder Brain Collection has been showcased at many outreach events, including Upward Bound, Expanding Your Horizons, Brain Days, Kids Science Day, GRASSHOPR, and the Community Neuroscience Initiative!
 
@@ -34,9 +35,7 @@ The Wilder Brain Collection has been showcased at many outreach events, includin
 
 
 
-Under Construction & In Transition
-============
-Please note that this personal website is currently under construction and in the process of transitioning to hamidturker.com.
+
 
 
 
