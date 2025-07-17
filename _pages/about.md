@@ -24,7 +24,7 @@ I believe the most creative science emerges at the intersection of approaches th
 
 
 
-Click [here](https://github.com/user-attachments/files/21244630/CV_HamidTurker_2025July15.pdf) to download my full CV or go [here](https://hamidturker.github.io/cv/) for the abridged online version.
+Click [here](https://github.com/user-attachments/files/21268710/CV_2025July15.pdf) to download my full CV or go [here](https://hamidturker.github.io/cv/) for the abridged online version.
 
 ![Presentation1](https://github.com/user-attachments/assets/6be77b35-d16b-4806-9044-f50b25ee4113)
 The Wilder Brain Collection has been showcased at many outreach events, including Upward Bound, Expanding Your Horizons, Brain Days, Kids Science Day, GRASSHOPR, and the Community Neuroscience Initiative!
