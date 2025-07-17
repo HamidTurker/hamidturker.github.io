@@ -10,6 +10,8 @@ redirect_from:
 
 I am a postdoc at Cornell University in the [Laboratory of Neurobiology of Learning and Memory](https://blogs.cornell.edu/davidsmithlab/) led by Prof. David Smith, but moving to University College London for a research fellow position this Fall!
 
+Click [here](https://github.com/user-attachments/files/21268710/CV_2025July15.pdf) to download my full CV or go [here](https://hamidturker.github.io/cv/) for the abridged online version.
+
 My Research
 ============
 A central question in behavioral and brain sciences is how we perform skilled, adaptive behavior despite fundamental limitations in perception, attention, and memory. My research investigates the psychological, computational, and neurobiological mechanisms that allow the brain to manage its own constraints. **I focus on (i) how multisensory information is integrated into coherent representations, (ii) what information is selected to be represented on the 'cognitive map', and (iii) how memories are retrieved to guide context-dependent behavior.** 
@@ -23,8 +25,6 @@ I believe the most creative science emerges at the intersection of approaches th
 
 
 
-
-Click [here](https://github.com/user-attachments/files/21268710/CV_2025July15.pdf) to download my full CV or go [here](https://hamidturker.github.io/cv/) for the abridged online version.
 
 ![Presentation1](https://github.com/user-attachments/assets/6be77b35-d16b-4806-9044-f50b25ee4113)
 The Wilder Brain Collection has been showcased at many outreach events, including Upward Bound, Expanding Your Horizons, Brain Days, Kids Science Day, GRASSHOPR, and the Community Neuroscience Initiative!
