@@ -24,6 +24,8 @@ Education
 
 Research Appointments
 ======
+* 2022-2025: &nbsp; Postdoctoral Associate (Cornell)
+* 2015-2022: &nbsp; Graduate Student Researcher (Cornell)
 * 2014-2015: &nbsp; Research Assistant/Junior Researcher (Leiden University)
 * 2013: &emsp;&emsp;&emsp; Research Trainee (Harvard University, Brigham & Women's Hospital)
 * 2012: &emsp;&emsp;&emsp; Visiting Student Research Collaborator (Princeton University)
