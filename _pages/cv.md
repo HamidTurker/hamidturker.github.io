@@ -17,7 +17,7 @@ In Brief
 
 Education
 ======
-* 2022:      &nbsp;&nbsp;&nbsp; Ph.D in Psychology, Cornell University (Minor: Cognitive Science)
+* 2022:      &emsp;&emsp;&emsp; Ph.D in Psychology, Cornell University (Minor: Cognitive Science)
 * 2018:      &nbsp;&nbsp;&nbsp; M.A. in Psychology, Cornell University
 * 2013:      &nbsp;&nbsp;&nbsp; M.Sc. in Cognitive Neuroscience, Leiden University
 * 2011:      &nbsp;&nbsp;&nbsp; B.Sc. in Psychology, Leiden University, 2011 (Minor: Brain & Cognition)
