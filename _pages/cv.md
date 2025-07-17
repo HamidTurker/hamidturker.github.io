@@ -33,8 +33,7 @@ Research Appointments
 Publications
 ======
 **_In Prep:_**
-=
-
+---------------
 **Turker, H. B.**, & Smith, D. M. (under review). Prelimbic Medial Prefrontal Cortex Differentiates Match from Non-Match and Signals Various Behavioral Events
 
 **Turker, H. B.**, & Smith, D. M. (in prep). Changes in Prefrontal and Hippocampal Power, Phase-Clustering, and Granger Prediction Unfold in a Sequence Time-Locked to Behaviorally-Relevant Events
@@ -44,7 +43,7 @@ Wu, W. **Turker, H. B.**, Fang, J., Cleland, T. A., Linster, C., & Smith, D. M. 
 **Turker, H. B.**, & Colcombe, S., & Swallow, K. M. (in revision). Shared and Unshared Contributions of LC and VTA to Static Functional Connectivity
 
 **_Peer-Reviewed Articles:_**
-
+---------------
 Riley, E., **Turker, H. B.**, Swallow, K., De Rosa, E., & Anderson, A. (2024). [Nonlinear changes in pupillary attentional orienting responses across the lifespan.](https://link.springer.com/article/10.1007/s11357-023-00834-1) _GeroScience_, _46_, 1017-1033
 
 Richie-Halford, A. Cieslak, M., Ai, L., Caffarra, S., Covitz, S., Franco, A.R., Karipidis, I., Kruper, J., Milham, M., Avelar-Pereira, B., Roy, E., Sydnor, V.J.,
@@ -65,7 +64,7 @@ doi: 10.3758/s13421-018-0846-0
 
 
 **_Book chapters:_**
-
+---------------
 Nolte, J., & **Turker, H. B.** (2023). Involving older adults in the data analysis process. In A. Urbania & A. Wanka (Eds.), [Routledge international handbook of participatory approaches in ageaing research](https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003254829/routledge-international-handbook-participatory-approaches-ageing-research-anna-urbaniak-anna-wanka?refId=5f3813cc-0597-41de-8a0a-3eff07e1bf6a&context=ubx). Routledge, London
 
 Nolte, J., & **Turker, H. B.** (2021). Teaching students how to effectively take notes. In K. Armstrong, L.
