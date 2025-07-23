@@ -14,16 +14,18 @@ Click [here](https://github.com/user-attachments/files/21268710/CV_2025July15.pd
 
 My Research
 ============
-A central question in behavioral and brain sciences is how we perform skilled, adaptive behavior despite fundamental limitations in perception, attention, and memory. My research investigates the psychological, computational, and neurobiological mechanisms that allow the brain to manage its own constraints. **I focus on (i) how multisensory information is integrated into coherent representations, (ii) what information is selected to be represented on the 'cognitive map', and (iii) how memories are retrieved to guide context-dependent behavior.** 
+A central question in behavioral and brain sciences is how we perform skilled, adaptive behavior despite fundamental limitations in perception, attention, and memory. My research investigates the psychological, computational, and neurobiological mechanisms that allow the brain to manage its own constraints. **I focus on (i) how multisensory information is integrated into coherent representations, (ii) what information is selected to be represented on the 'cognitive map', and (iii) how that information is retrieved to guide context-dependent behavior.** 
 
 In my goal to address the paradox of how fallible cognitive systems enable expert performance, I cross traditional research boundaries: I work with both human and rodent subjects, collecting data from naturalistic behavior as well as highly-controlled experiments. I utilize non-invasive (fMRI, scalp EEG, eyetracking, pupillometry) and invasive (electrophysiology, LFP, optogenetics) techniques, complemented with computational modeling (reinforcement learning, deep learning, drift-diffusion models).
-
-I believe the most creative science emerges at the intersection of approaches that have historically remained separated. By centering my work on theoretical questions across levels of analysis - from neurons to ecological behavior - I aim to choose the best tools for the problem, not the other way around.
-
 
 <img width="1626" alt="Screen Shot 2024-10-29 at 1 28 55 AM" src="https://github.com/user-attachments/assets/108d2a99-99af-48b9-9952-3f06a71b883a">
 
 
+Tool Development
+============
+I believe the most creative science emerges at the intersection of approaches that have historically remained separated. By centering my work on theoretical questions across levels of analysis - from neurons to ecological behavior - I cannot help but be interdisciplinary: I choose the best tools for the problem, not the other way around.
+
+This also puts me in a unique position to innovate on tools. For instance, currently I am developing a new timeseries analysis approach (novel method & software). Highly-controlled experiments easily allow for stimulus-locked analysis of e.g. power, phase clustering, or Granger prediction. However, my experiments with free animal behavior required a novel way of processing data that can time-lock the data in a _single_ plot to _multiple_ events of interest. These new tools will be made available on my GitHub for Matlab, Python, and R. 
 
 Science Outreach
 ============
