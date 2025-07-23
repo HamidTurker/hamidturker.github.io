@@ -25,7 +25,7 @@ Tool Development
 ============
 I believe the most creative science emerges at the intersection of approaches that have historically remained separated. By centering my work on theoretical questions across levels of analysis - from neurons to ecological behavior - I cannot help but be interdisciplinary: I choose the best tools for the problem, not the other way around.
 
-This also puts me in a unique position to innovate on the tools available. For instance, currently I am developing a new timeseries analysis approach (novel method & software). Highly-controlled experiments easily allow for stimulus-locked analysis of e.g. power, phase clustering, or Granger prediction. However, my experiments with free animal behavior required a novel way of processing data that can time-lock the data in a _single_ plot to _multiple_ events of interest. These new tools will be made available on my GitHub for Matlab, Python, and R.
+This also puts me in a unique position to innovate on the tools available. Currently, I am developing a new timeseries analysis visualization approach. Highly-controlled experiments easily allow for stimulus-locked analysis. However, my experiments with free animal behavior required a novel way of processing data that can time-lock all data in a _single_ plot to _multiple_ events of interest (e.g. stimulus onset, but also the start or end of behaviors). All new tools will be made available on my GitHub for Matlab, Python, and R.
 
 <img width="763" height="438" alt="Screen Shot 2025-07-23 at 12 59 53 PM" src="https://github.com/user-attachments/assets/c6c7a581-1768-46f1-b3c5-1508bc8e98bd" />
 
