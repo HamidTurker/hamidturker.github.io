@@ -32,8 +32,9 @@ This also puts me in a unique position to innovate on the tools available. Curre
 
 Science Outreach
 ============
-![Presentation1](https://github.com/user-attachments/assets/6be77b35-d16b-4806-9044-f50b25ee4113)
 Since 2017, I have been the assistant curator of Cornell's 'Wilder Brain Collection' and regularly organizing outreach events. The collection has been showcased at Upward Bound, Expanding Your Horizons, Brain Days, Kids Science Day, GRASSHOPR, the Community Neuroscience Initiative, and many other events!
+![Presentation1](https://github.com/user-attachments/assets/6be77b35-d16b-4806-9044-f50b25ee4113)
+
 
 
 
