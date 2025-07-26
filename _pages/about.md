@@ -14,7 +14,7 @@ Click [here](https://github.com/user-attachments/files/21268710/CV_2025July15.pd
 
 My Research
 ============
-A central question in behavioral and brain sciences is how we perform skilled, adaptive behavior despite fundamental limitations in perception, attention, and memory. My research investigates the psychological, computational, and neurobiological mechanisms that allow the brain to manage its own constraints. **I focus on (i) how multisensory information is integrated into coherent representations, (ii) what information is selected to be represented on the 'cognitive map', and (iii) how that information is retrieved to guide context-dependent behavior.** 
+A central question in behavioral and brain sciences is how we perform skilled, adaptive behavior despite fundamental limitations in perception, attention, and memory. My research investigates the psychological, computational, and neurobiological mechanisms that allow the brain to manage its own constraints. **I focus on (i) how multisensory information is integrated into coherent representations of the world, (ii) what information is selected to be represented on the 'cognitive map' and other information is discarded, and (iii) how memories are retrieved to guide context-dependent behavior.** 
 
 In my goal to address the paradox of how fallible cognitive systems enable expert performance, I cross traditional research boundaries: I work with both human and rodent subjects, collecting data from naturalistic behavior as well as highly-controlled experiments. I utilize non-invasive (fMRI, scalp EEG, eyetracking, pupillometry) and invasive (electrophysiology, LFP, optogenetics) techniques, complemented with computational modeling (reinforcement learning, deep learning, drift-diffusion models).
 
