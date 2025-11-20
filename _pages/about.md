@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at Cornell University in the [Laboratory of Neurobiology of Learning and Memory](https://blogs.cornell.edu/davidsmithlab/) led by Prof. David Smith, but moving to University College London for a research fellow position this Fall!
+I am a Research Fellow at University College London, in the [Coen Lab](https://coen-lab.com/)!
 
 Click [here](https://github.com/user-attachments/files/21268710/CV_2025July15.pdf) to download my full CV or go [here](https://hamidturker.github.io/cv/) for the abridged online version.
 
