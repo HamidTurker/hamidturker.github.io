@@ -24,6 +24,7 @@ Education
 
 Research Appointments
 ======
+* 2025-current: &nbsp; Research Fellow (UCL)
 * 2022-2025: &nbsp; Postdoctoral Associate (Cornell)
 * 2015-2022: &nbsp; Graduate Student Researcher (Cornell)
 * 2014-2015: &nbsp; Research Assistant/Junior Researcher (Leiden University)
@@ -37,7 +38,7 @@ Publications
 
 *In Progress:*
 ---------------
-**Turker, H. B.**, & Smith, D. M. (under review). Prelimbic Medial Prefrontal Cortex Differentiates Match from Non-Match and Signals Various Behavioral Events
+**Turker, H. B.**, & Smith, D. M. (in prep). Prelimbic Medial Prefrontal Cortex Differentiates Match from Non-Match and Signals Various Behavioral Events
 
 **Turker, H. B.**, & Smith, D. M. (in prep). Changes in Prefrontal and Hippocampal Power, Phase-Clustering, and Granger Prediction Unfold in a Sequence Time-Locked to Behaviorally-Relevant Events
 
