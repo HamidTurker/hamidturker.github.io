@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow at University College London, in the [Coen Lab](https://coen-lab.com/)! Click [here](https://github.com/user-attachments/files/21268710/CV_2025July15.pdf) to download my full CV or go [here](https://hamidturker.github.io/cv/) for the abridged online version.
+I am a Research Fellow at University College London, in the [Coen Lab](https://coen-lab.com/)! Click [here](https://github.com/user-attachments/files/21268710/CV.pdf) to download my full CV or go [here](https://hamidturker.github.io/cv/) for the abridged online version.
 
 My Research
 ============
